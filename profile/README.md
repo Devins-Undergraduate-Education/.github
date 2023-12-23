@@ -4,6 +4,12 @@ This GitHub Organization serves as a _folder_ by which the projects, assignments
 Through this GitHub Organization, one may gain insight into the topics explored and areas studied during my academic endeavors at Georgia Tech. 
 
 # Computer Science Coursework
-Please note the following coursework does not reflect all of the coursework that was completed and does not reflect all of the coursework that will be completed. Non-Relevant coursework, such as non-computer science courses or computer science courses that do not have sufficient programming problem sets or projects, will not be included in this GitHub Organization and thus will not be listed below.
+Please note the following coursework does not reflect all of the coursework that was completed and does not reflect all of the coursework that will be completed. Non-relevant coursework, such as non-computer science courses or computer science courses that do not have sufficient programming problem sets or projects, will not be included in this GitHub Organization and thus will not be listed below.
 
 The subsequent coursework includes completed computer science coursework divided into three categories: General CS Coursework, SysArch Coursework, and Intelligence Coursework.
+
+## General CS Coursework
+
+## SysArch Coursework
+
+## Intelligence Coursework

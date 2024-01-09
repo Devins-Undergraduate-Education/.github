@@ -9,7 +9,8 @@ Please note the following coursework does not reflect all of the coursework that
 The subsequent coursework includes completed computer science coursework divided into three categories: General CS Coursework, SysArch Coursework, and Intelligence Coursework.
 
 ## General CS Coursework
-
+### Introduction to Object-Oriented Programming (CS 1331)
+### Data Structures and Algorithms for Applications (CS 1332)
 ## SysArch Coursework
 
 ## Intelligence Coursework

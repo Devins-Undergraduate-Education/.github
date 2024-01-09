@@ -10,7 +10,7 @@ The subsequent coursework includes completed computer science coursework divided
 
 ## General CS Coursework
 - Introduction to Object-Oriented Programming (CS 1331)
-- Data Structures and Algorithms for Applications (CS 1332)
+- [Data Structures and Algorithms for Applications (CS 1332)](https://github.com/Devins-Undergraduate-Education/CS-1332)
 - Introduction to Discrete Mathematics for Computer Science (CS 2050)
 - Objects and Design (CS 2340)
   

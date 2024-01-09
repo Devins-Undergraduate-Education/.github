@@ -10,12 +10,12 @@ The subsequent coursework includes completed computer science coursework divided
 
 ## General CS Coursework
 - Introduction to Object-Oriented Programming (CS 1331)
-- [Data Structures and Algorithms for Applications (CS 1332)](https://github.com/Devins-Undergraduate-Education/CS-1332)
+- [Data Structures and Algorithms for Applications](https://github.com/Devins-Undergraduate-Education/CS-1332) (CS 1332)
 - Introduction to Discrete Mathematics for Computer Science (CS 2050)
 - Objects and Design (CS 2340)
   
 ## SysArch Coursework
-- Computer Organization and Programming (CS 2110)
+- [Computer Organization and Programming](https://github.com/Devins-Undergraduate-Education/CS-2110) (CS 2110)
 - Computer Systems and Networks (CS 2200)
 ## Intelligence Coursework
 - Introduction to Artificial Intelligence (CS 3600)

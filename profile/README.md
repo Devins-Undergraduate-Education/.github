@@ -17,5 +17,8 @@ The subsequent coursework includes completed computer science coursework divided
 ## SysArch Coursework
 - [Computer Organization and Programming (CS 2110)](https://github.com/Devins-Undergraduate-Education/CS-2110)
 - Computer Systems and Networks (CS 2200)
+- Design and Analysis of Algorithms (CS 3510)
+- Embedded Sytems (CS 4220)
 ## Intelligence Coursework
 - Introduction to Artificial Intelligence (CS 3600)
+- Machine Learning (CS 4641)

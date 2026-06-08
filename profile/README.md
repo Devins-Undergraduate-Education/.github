@@ -22,7 +22,6 @@ The repositories below focus on courses with programming work, technical homewor
 - [Computer Systems and Networks (CS 2200)](https://github.com/Devins-Undergraduate-Education/CS-2200)
 - [Design of Operating Systems (CS 3210)](https://github.com/Devins-Undergraduate-Education/CS-3210)
 - [Processor Design (CS 3220)](https://github.com/Devins-Undergraduate-Education/CS-3220)
-- [Embedded Systems (CS 4220)](https://github.com/Devins-Undergraduate-Education/CS-4220)
 - [Compilers, Interpreters, and Program Analyzers (CS 4240)](https://github.com/Devins-Undergraduate-Education/CS-4240)
 - [Digital Design Laboratory (ECE 2031)](https://github.com/Devins-Undergraduate-Education/ECE-2031)
 

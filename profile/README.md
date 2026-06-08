@@ -13,7 +13,6 @@ The repositories below focus on courses with programming work, technical homewor
 - [Introduction to Object-Oriented Programming (CS 1331)](https://github.com/Devins-Undergraduate-Education/CS-1331)
 - [Data Structures and Algorithms for Applications (CS 1332)](https://github.com/Devins-Undergraduate-Education/CS-1332)
 - [Introduction to Discrete Mathematics for Computer Science (CS 2050)](https://github.com/Devins-Undergraduate-Education/CS-2050)
-- [Objects and Design (CS 2340)](https://github.com/Devins-Undergraduate-Education/CS-2340)
 - [Design and Analysis of Algorithms (CS 3510)](https://github.com/Devins-Undergraduate-Education/CS-3510)
 
 ## Systems and Architecture Coursework

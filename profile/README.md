@@ -37,7 +37,6 @@ The repositories below focus on courses with programming work, technical homewor
 
 ## Math, Statistics, and Science Coursework
 
-- [Linear Algebra (MATH 1554)](https://github.com/Devins-Undergraduate-Education/MATH-1554)
 - [Applied Combinatorics (MATH 3012)](https://github.com/Devins-Undergraduate-Education/MATH-3012)
 - [Statistics and Applications (ISYE 3770)](https://github.com/Devins-Undergraduate-Education/ISYE-3770)
 - [Introductory Physics I (PHYS 2211)](https://github.com/Devins-Undergraduate-Education/PHYS-2211)
